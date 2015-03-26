@@ -1,0 +1,12 @@
+{
+  "name": "Rainbow",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "parse": "^1.3.5",
+    "react-native": "^0.1.0"
+  }
+}
