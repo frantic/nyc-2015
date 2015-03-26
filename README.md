@@ -23,7 +23,7 @@ Running:
 
 ## Slides
 
-
+https://speakerdeck.com/frantic/react-native-tutorial-nyc-15
 
 Alex Kotliarskyi,
 NYC 2015
