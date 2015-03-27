@@ -9,6 +9,8 @@
 
 #import "AppDelegate.h"
 
+// Getting "file not found"?
+// Try `npm install` in the root of this project
 #import "RCTRootView.h"
 
 @implementation AppDelegate
